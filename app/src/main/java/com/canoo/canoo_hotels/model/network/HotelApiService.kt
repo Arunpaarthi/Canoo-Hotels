@@ -59,7 +59,8 @@ class HotelApiService {
 
     companion object {
         // Canoo - eb07c2ad91msh79b8bfcf83611f4p13a2f5jsn39e78106a121
-        private const val APP_ID = "eb07c2ad91msh79b8bfcf83611f4p13a2f5jsn39e78106a121"
+        // Mine - a57ecbf91emsh2cd09abf3fdcb61p11c25djsn48922309cccf
+        private const val APP_ID = "a57ecbf91emsh2cd09abf3fdcb61p11c25djsn48922309cccf"
         private const val BASE_URL = "https://hotels4.p.rapidapi.com/"
         private const val API_KEY = "X-RapidAPI-Key"
         private const val API_HOST = "X-RapidAPI-Host"
